@@ -10,6 +10,7 @@ void sol()
     lli ans=(a*b)/3;
     if((a*b)%3) ans++;
     cout<<ans<<endl;
+    cout << ans << endl;
 }
 
 int main()
