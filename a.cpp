@@ -11,6 +11,8 @@ void sol()
     if((a*b)%3) ans++;
     cout<<ans<<endl;
     cout << ans << endl;
+
+    cout << "HELLO WORLD" << endl;
 }
 
 int main()
